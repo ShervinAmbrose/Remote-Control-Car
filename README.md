@@ -1,3 +1,3 @@
 # Remote-Control-Car
 
-![](Remote_Control_Car.gif = 500x500)
+![](Remote_Control_Car.gif | width = 500)
