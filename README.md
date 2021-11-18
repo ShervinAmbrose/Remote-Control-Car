@@ -1,6 +1,5 @@
 # Remote-Control-Car
 
-<<<<<<< HEAD
 ### Video Demo
 
 ![](Remote_Control_Car.gif)
@@ -33,6 +32,5 @@ Tested the transmitter (on the left of breadboard) and the reciever (on the righ
 ### Image Six (Final Design)
 
 ![](IMG_0869.jpg)
-=======
-![](Remote_Control_Car.gif)
->>>>>>> d48e97139d077f94d2f23dbec7ead98bbbf48fbd
+
+
